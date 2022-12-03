@@ -1,0 +1,3 @@
+This project uses weather data from Weatherbit and integrates with an LWC to display data based on city selection. 
+
+It was completed with the help of Taylor Ortiz's antohercodingblog post: https://anothercodingblog.com/2019/12/13/building-a-weather-app-in-salesforce-calling-a-web-service-to-show-weather-data-in-a-lightning-web-component/comment-page-1/?unapproved=591&moderation-hash=6fb8224e0219ec5ceef280a66a0a056a#comment-591
